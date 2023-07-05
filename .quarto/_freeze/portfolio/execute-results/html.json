@@ -1,0 +1,14 @@
+{
+  "hash": "defa698085757f0de9cc47022631b8b8",
+  "result": {
+    "markdown": "---\ntitle: \"portfolio\"\n---\n\n\n![Elephant](portfolio/grana.png)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nfiles<-list.files(\"portfolio/\")\n\nmarkdown <- paste0(\"![\", files, \"](\", \"portfolio\", \"/\", files, \")\")\n\nmarkdown\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"![FK62tX7XMAkIB1M.jpg](portfolio/FK62tX7XMAkIB1M.jpg)\"\n[2] \"![FNRZifdXoAoX699.jpg](portfolio/FNRZifdXoAoX699.jpg)\"\n[3] \"![grana.png](portfolio/grana.png)\"                    \n[4] \"![Iceland.png](portfolio/Iceland.png)\"                \n[5] \"![Picture1.png](portfolio/Picture1.png)\"              \n[6] \"![tidytuesday_w5.png](portfolio/tidytuesday_w5.png)\"  \n[7] \"![website plot1.jpg](portfolio/website plot1.jpg)\"    \n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

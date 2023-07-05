@@ -1,0 +1,69 @@
+---
+title: "CV"
+---
+
+## My experience
+
+#### Statistical analysis and Project management (6.23-current)
+
+[Augenklinik, Universitätsspital Zürich](https://www.usz.ch/fachbereich/augenklinik/)
+
+-   Statistical analysis of real-world clinical data
+
+-   Project coordination and quality management
+
+#### Research fellow (11.22-current)
+
+[Center for Reproducible Science, Ineichen Group, University of Zürich](https://www.crs.uzh.ch/en.html)
+
+-   Text mining automation in the field of animal science welfare
+
+-   Data analysis, visualization and statistical modelling
+
+#### Freelancer (3.21-current)
+
+-   Assisted users with cleaning and analysis of clinical research data
+
+-   Performed modeling of data to identify correlation factors between drivers on which client needed insight
+
+-   Created data visualizations to effectively convey complex research data to the broader audience
+
+#### Lecturer (9-12.21)
+
+-   Graphical Statistics
+
+-   Introduction to R, data analysis and visualization
+
+-   How to write an efficient statistical plan for your grant
+
+#### Core Team and Social Media Manager (since 7.21)
+
+[Swiss Reproducibility Network Academy](https://www.swissrn.org/academy/)
+
+-   Promoting good research practices amongst early career researchers
+
+-   Events and workshops organization
+
+## My education
+
+#### PhD candidate in Biomedical Science (12.18-6.22)
+
+[Veterinary Public Health Division, University of Bern](https://www.tierschutz.vetsuisse.unibe.ch/)
+
+-   Led research efforts and identified gaps in current scientific best practices in data analysis through Systematic Reviews and Meta Analyses
+
+-   Applied advanced statistical analysis of Big Data and Mixed Effect Models in both theoretical and experimental settings
+
+-   Assessed study quality and performed data simulations from publications
+
+#### Master of Science (2.16-9.18)
+
+[University of Bern, Switzerland](https://www.iee.unibe.ch/)
+
+• Ecology and Evolution with specialization in Behaviour: insigni cum laude
+
+#### Bachelor of Science (10.11-9.15)
+
+[Università degli Studi di Torino, Italy](https://biologia.campusnet.unito.it/do/home.pl)
+
+• Biology with specialization in Ecology: graded 93/110

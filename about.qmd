@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+### Who am I?
+
+I work as researcher at the University of Zürich. I have dedicated the last four years to studying and improving animal welfare, promoting the best practice of reproducibility and rigour of research. Check out my experience [here](../cv.qmd).
+
+In my years of experience as a researcher, I have learned the value of data visualization in conveying messages and effectively attracting attention to disseminate my work, both within the scientific community and the general public, as well as for fun!
+
+I have worked in the past years as freelancer in data analysis and visualization, teaching R and statistics as well as project management. Check out my portfolio [here](../cv.qmd).

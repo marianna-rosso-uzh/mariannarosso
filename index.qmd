@@ -1,0 +1,39 @@
+---
+title: "Hi there!"
+
+image: IMG_7767_2.jpg
+
+about: 
+
+  template: marquee
+
+  links:
+
+    - text: Twitter
+
+      href: https://twitter.com/MariannaRosso1
+
+    - text: GitHub
+
+      href: https://github.com/marianna-rosso-uzh
+
+    - text: LinkedIn
+
+      href: https://www.linkedin.com/in/marianna-rosso-625022160/
+
+    - text: Email
+
+      href: mailto:marianna.rosso3@gmail.com
+---
+
+\# Marianna Rosso, PhD
+
+text
+
+text
+
+text
+
+text
+
+text

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who am I?\nI work as researcher at the University of Zürich. I have dedicated the last four years to studying and improving animal welfare, promoting the best practice of reproducibility and rigour of research. Check out my experience here.\nIn my years of experience as a researcher, I have learned the value of data visualization in conveying messages and effectively attracting attention to disseminate my work, both within the scientific community and the general public, as well as for fun!\nI have worked in the past years as freelancer in data analysis and visualization, teaching R and statistics as well as project management. Check out my portfolio here."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Augenklinik, Universitätsspital Zürich\n\nStatistical analysis of real-world clinical data\nProject coordination and quality management\n\n\n\n\nCenter for Reproducible Science, Ineichen Group, University of Zürich\n\nText mining automation in the field of animal science welfare\nData analysis, visualization and statistical modelling\n\n\n\n\n\nAssisted users with cleaning and analysis of clinical research data\nPerformed modeling of data to identify correlation factors between drivers on which client needed insight\nCreated data visualizations to effectively convey complex research data to the broader audience\n\n\n\n\n\nGraphical Statistics\nIntroduction to R, data analysis and visualization\nHow to write an efficient statistical plan for your grant\n\n\n\n\nSwiss Reproducibility Network Academy\n\nPromoting good research practices amongst early career researchers\nEvents and workshops organization"
+  },
+  {
+    "objectID": "cv.html#my-experience",
+    "href": "cv.html#my-experience",
+    "title": "CV",
+    "section": "",
+    "text": "Augenklinik, Universitätsspital Zürich\n\nStatistical analysis of real-world clinical data\nProject coordination and quality management\n\n\n\n\nCenter for Reproducible Science, Ineichen Group, University of Zürich\n\nText mining automation in the field of animal science welfare\nData analysis, visualization and statistical modelling\n\n\n\n\n\nAssisted users with cleaning and analysis of clinical research data\nPerformed modeling of data to identify correlation factors between drivers on which client needed insight\nCreated data visualizations to effectively convey complex research data to the broader audience\n\n\n\n\n\nGraphical Statistics\nIntroduction to R, data analysis and visualization\nHow to write an efficient statistical plan for your grant\n\n\n\n\nSwiss Reproducibility Network Academy\n\nPromoting good research practices amongst early career researchers\nEvents and workshops organization"
+  },
+  {
+    "objectID": "cv.html#my-education",
+    "href": "cv.html#my-education",
+    "title": "CV",
+    "section": "My education",
+    "text": "My education\n\nPhD candidate in Biomedical Science (12.18-6.22)\nVeterinary Public Health Division, University of Bern\n\nLed research efforts and identified gaps in current scientific best practices in data analysis through Systematic Reviews and Meta Analyses\nApplied advanced statistical analysis of Big Data and Mixed Effect Models in both theoretical and experimental settings\nAssessed study quality and performed data simulations from publications\n\n\n\nMaster of Science (2.16-9.18)\nUniversity of Bern, Switzerland\n• Ecology and Evolution with specialization in Behaviour: insigni cum laude\n\n\nBachelor of Science (10.11-9.15)\nUniversità degli Studi di Torino, Italy\n• Biology with specialization in Ecology: graded 93/110"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there!",
+    "section": "",
+    "text": "# Marianna Rosso, PhD\ntext\ntext\ntext\ntext\ntext"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Biblioteca a Sestri Levante\n\n\n\n\n\nAlternative Fuels\n\n\n\n\n\nIceland Trip\n\n\n\n\n\nIlliteracy\n\n\n\n\n\nDog Breeds\n\n\n\n\n\nErasmus Destinations"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Zurrer WE, Cannon AE, Ewing E, Rosso M, Reich DS, Ineichen BV (2023). “Auto-STEED: A data mining tool for automated extraction of experimental paramenters and risk of bias items from in-vivo publications.” BioRxiv, doi\nNovak J, Jaric I, Rosso M, Rufener R, Touma C, Würbel H (2022) “Handling method affects measures of anxiety, but not chronic stress in mice.” Scientific Reports, doi\nRosso M, Herrera A, Würbel H, Voelkl B (2022) “Evidence for HARKing in mouse behavioural test of anxiety.” bioRxiv, doi\nRosso M, Wirz R, Loretan AV, Sutter NA, da Cunha CTP, Jaric I, Würbel H, Voelkl B (2022). “Reliability of common mouse behavioural tests of anxiety: A systematic review and meta-analysis on the effects of anxiolytics.” Neuroscience and Biobehavioral Reviews, doi\nJaric I, Voelkl B, Clerc M, Schmid MW, Novak J, Rosso M, Rufener R, von Kortzfleisch VT, Richter SH, Buettner M, Bleich A, Amrein I, Wolfer DP, Touma C, Sunagawa S, Würbel H (2022). “The rearing environment persistently modulates mouse phenotypes from the molecular to the behavioural level.” PLOS Biology, doi\nvon Kortzfleisch VT, Ambrée O, Karp NA, Meyer N, Novak J, Palme R, Rosso M, Touma C, Würbel H, Kaiser S, Sachser N, Richter SH (2022). “Do multiple experimenters improve the reproducibility of animal studies?” PLOS Biology, doi\nJaric I, Voelkl B, Clerc M, Schmid MW, Novak J, Rosso M, Rufener R, von Kortzfleisch V, Richter HS, Buettner M, Bleich A, Amrein I, Wolfer DP, Touma C, Sunagawa S, Wuerbel H (2022). “Rearing environment persistently modulates the phenotype of mice.” bioRxiv, doi\nBailoo JD, Voelkl B, Varholick J, Novak J, Murphy E, Rosso M, Palme R, Würbel H (2020). “Effects of weaning age and housing conditions on phenotypic differences in mice.” Scientific Reports, doi"
+  }
+]

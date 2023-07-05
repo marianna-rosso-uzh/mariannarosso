@@ -1,0 +1,14 @@
+{
+  "hash": "59d9264b0d1f22eb7d29c9b14d504644",
+  "result": {
+    "markdown": "---\ntitle: \"Publications\"\n---\n\nZurrer WE, Cannon AE, Ewing E, Rosso M, Reich DS, Ineichen BV (2023).\n\"Auto-STEED: A data mining tool for automated extraction of\nexperimental parameters and risk of bias items from in vivo\npublications.\" _bioRxiv_. doi:10.1101/2023.02.24.529867\n<https://doi.org/10.1101/2023.02.24.529867>.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
